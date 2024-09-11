@@ -317,6 +317,7 @@ public class Main {
 
                 case 0:
                     System.out.println("Agradeçemos o seu acesso! :D");
+                    //PERGUNTAR PARA PROFESSORA COMO FAZER UM BREAK DENTRO DO SWITCH CASE
                     break;
 
                 default:
